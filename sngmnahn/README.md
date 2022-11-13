@@ -3,5 +3,5 @@
 3. 새 파일 추가 (README.md)
 4. 내용 작성
 5. git add README.md
-6. git commit -m "test"
+6. git commit -m "DOCS: edit README.md (13th NOV 22:07)"
 7. git push
